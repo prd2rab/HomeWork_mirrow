@@ -13,7 +13,7 @@ public class Lesson2HomeWork {
     }
 
     private static void MaximumMinimum() {
-        final int[] arr4 = {10, 5, 3, 2, 11, 40, 5, 2, 4, 8, 9, 2};
+        int[] arr4 = {10, 5, 3, 2, 11, 40, 5, 2, 4, 8, 9, 2};
         int maximum = arr4[0];
         int minimum = arr4[0];
         for (int i = 1; i < arr4.length; i++) {
